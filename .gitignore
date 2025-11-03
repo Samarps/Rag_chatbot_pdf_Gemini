@@ -1,0 +1,8 @@
+# Ignore Conda/venv environments
+ragbot_gemini/
+.env/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+

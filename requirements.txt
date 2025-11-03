@@ -1,0 +1,8 @@
+google-genai
+sentence-transformers
+faiss-cpu
+pdfplumber
+streamlit
+tiktoken
+python-dotenv
+PyMuPDF
